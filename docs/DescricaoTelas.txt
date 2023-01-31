@@ -1,0 +1,6 @@
+Teste
+[T001] - Tela de Cadastro de Usuários
+
+    Tela de cadastro inicial de usuário que é exibida antes da seleção da opção cadastral.
+    Formulárario:   Nome, Email, Senha
+

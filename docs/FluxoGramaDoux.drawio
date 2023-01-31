@@ -1,0 +1,45 @@
+<mxfile host="65bd71144e">
+    <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+        <mxGraphModel dx="1155" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="jF51_TRKOIB4lYGw2IrB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jF51_TRKOIB4lYGw2IrB-1" target="jF51_TRKOIB4lYGw2IrB-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="jF51_TRKOIB4lYGw2IrB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="jF51_TRKOIB4lYGw2IrB-1" target="jF51_TRKOIB4lYGw2IrB-7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="80" y="395"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jF51_TRKOIB4lYGw2IrB-1" value="Acesso Site Público" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="167.5" width="80" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="jF51_TRKOIB4lYGw2IrB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jF51_TRKOIB4lYGw2IrB-2" target="jF51_TRKOIB4lYGw2IrB-3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="400" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jF51_TRKOIB4lYGw2IrB-2" value="Cadastro&lt;br&gt;[T001]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="285" y="170" width="75" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="jF51_TRKOIB4lYGw2IrB-3" value="Confirmação Email" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="165" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="jF51_TRKOIB4lYGw2IrB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jF51_TRKOIB4lYGw2IrB-7" target="jF51_TRKOIB4lYGw2IrB-3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="650" y="280" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="jF51_TRKOIB4lYGw2IrB-7" value="Login&lt;br&gt;[T005]" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="jF51_TRKOIB4lYGw2IrB-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Fluxo de cadastro na aplicação&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="90" width="130" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
