@@ -1,4 +1,5 @@
 const express = require('express');
+const Models = require('./models');
 
 if(process.env.NODE_ENV !== 'production') {
     require('dotenv').config()
